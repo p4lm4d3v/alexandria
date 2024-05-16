@@ -151,7 +151,7 @@
   </li>
   <li>
     <details>
-      <summary>Predator - Alien (Crossovers)</summary>
+      <summary>Predator vs. Alien Franchise</summary>
       <ul>
         <li><a href="https://en.wikipedia.org/wiki/Alien_vs._Predator_(film)">
           Alien vs. Predator (2004)
