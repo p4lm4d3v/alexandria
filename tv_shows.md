@@ -14,4 +14,16 @@
       </ul>
     </details>
   </li>
+  <li>
+    <details>
+      <summary>Other</summary>
+      <ul>
+        <li>
+          <a href="https://www.imdb.com/title/tt6487482/">
+            Insatiable (2018 - 2019)
+          </a>
+        </li>
+      </ul>
+    </details>
+  </li>
 </ul>

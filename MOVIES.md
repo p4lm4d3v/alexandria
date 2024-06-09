@@ -51,6 +51,64 @@
   </li>
   <li>
     <details>
+      <summary>Kingsman Franchise</summary>
+      <ul>
+        <li>
+          <details>
+            <summary>Original Trilogy<summary>
+            <ul>
+              <li>
+                <a href="https://www.imdb.com/title/tt2802144/">
+                  Kingsman: The Secret Service (2015)
+                </a>
+              </li>
+              <li>
+                <a href="https://www.imdb.com/title/tt4649466/">
+                  Kingsman: The Golden Circle (2017)
+                </a>
+              </li>
+              <li>
+                <a href="https://www.imdb.com/title/tt29529698/">
+                  Kingsman: The Blue Blood (to be announced)
+                </a>
+              </li>
+            </ul>
+          </details>
+        </li>
+        <li>
+          <details>
+            <summary>Prequels<summary>
+            <ul>
+              <li>
+                <a href="https://www.imdb.com/title/tt4649466/">
+                  The King's Man (2021)
+                </a>
+              </li>
+              <li>
+                <a href="https://www.imdb.com/title/tt29571712/">
+                  The King's Man: The Traitor King (to be announced)
+                </a>
+              </li>
+            </ul>
+          </details>
+        </li>
+        <li>
+          <details>
+            <summary>Spin-offs<summary>
+            <ul>
+              <li>
+                <a href="https://www.imdb.com/title/tt15009428/">
+                  Argylle (2024)
+                </a>
+              </li>
+            </ul>
+          </details>
+        </li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details>
       <summary>Godfather Franchise</summary>
       <ul>
       <li><a href="https://en.wikipedia.org/wiki/The_Godfather">
@@ -115,71 +173,73 @@
   <li>
     <details>
       <summary>Predator & Alien</summary>
-      <li>
-        <details>
-          <summary>Predator Franchise</summary>
-          <ul>
-            <li><a href="https://en.wikipedia.org/wiki/Predator_(film)">
-              Predator (1987)
-            </a></li>
-            <li><a href="https://en.wikipedia.org/wiki/Predator_2">
-              Predator 2 (1990)
-            </a></li>
-            <li><a href="https://en.wikipedia.org/wiki/Predators_(film)">
-              Predators (2010)
-            </a></li>
-            <li><a href="https://en.wikipedia.org/wiki/The_Predator_(film)">
-              The Predator (2018)
-            </a></li>
-            <li><a href="https://en.wikipedia.org/wiki/Prey_(2022_film)">
-              Prey (2022)
-            </a></li>
-            <li><a href="https://en.wikipedia.org/wiki/Predator_(franchise)#Future">
-              Badlands (2025)
-            </a></li>
-          </ul>
-        </details>
-      </li>
-    </details>
-  </li>
-  <li>
-    <details>
-      <summary>Alien Franchise</summary>
       <ul>
-        <li><a href="https://en.wikipedia.org/wiki/Alien_(film)">
-          Alien (1979)
-        </a></li>
-        <li><a href="https://en.wikipedia.org/wiki/Aliens_(film)">
-          Aliens (1986)
-        </a></li>
-        <li><a href="https://en.wikipedia.org/wiki/Alien_3">
-          Alien 3 (1992)
-        </a></li>
-        <li><a href="https://en.wikipedia.org/wiki/Alien_Resurrection">
-          Alien Resurrection (1997)
-        </a></li>
-        <li><a href="https://en.wikipedia.org/wiki/Prometheus_(2012_film)">
-          Prometheus (2012)
-        </a></li>
-        <li><a href="https://en.wikipedia.org/wiki/Alien:_Covenant">
-          Alien: Covenant (2017)
-        </a></li>
-        <li><a href="https://en.wikipedia.org/wiki/Alien:_Romulus">
-          Alien: Romulus (2024)
-        </a></li>
-      </ul>
-    </details>
-  </li>
-  <li>
-    <details>
-      <summary>Predator vs. Alien Franchise</summary>
-      <ul>
-        <li><a href="https://en.wikipedia.org/wiki/Alien_vs._Predator_(film)">
-          Alien vs. Predator (2004)
-        </a></li>
-        <li><a href="https://en.wikipedia.org/wiki/Aliens_vs._Predator:_Requiem">
-          Aliens vs. Predator: Requiem (2007)
-        </a></li>
+        <li>
+          <details>
+            <summary>Predator Franchise</summary>
+            <ul>
+              <li><a href="https://en.wikipedia.org/wiki/Predator_(film)">
+                Predator (1987)
+              </a></li>
+              <li><a href="https://en.wikipedia.org/wiki/Predator_2">
+                Predator 2 (1990)
+              </a></li>
+              <li><a href="https://en.wikipedia.org/wiki/Predators_(film)">
+                Predators (2010)
+              </a></li>
+              <li><a href="https://en.wikipedia.org/wiki/The_Predator_(film)">
+                The Predator (2018)
+              </a></li>
+              <li><a href="https://en.wikipedia.org/wiki/Prey_(2022_film)">
+                Prey (2022)
+              </a></li>
+              <li><a href="https://en.wikipedia.org/wiki/Predator_(franchise)#Future">
+                Badlands (2025)
+              </a></li>
+            </ul>
+          </details>
+        </li>
+        <li>
+          <details>
+            <summary>Alien Franchise</summary>
+            <ul>
+              <li><a href="https://en.wikipedia.org/wiki/Alien_(film)">
+                Alien (1979)
+              </a></li>
+              <li><a href="https://en.wikipedia.org/wiki/Aliens_(film)">
+                Aliens (1986)
+              </a></li>
+              <li><a href="https://en.wikipedia.org/wiki/Alien_3">
+                Alien 3 (1992)
+              </a></li>
+              <li><a href="https://en.wikipedia.org/wiki/Alien_Resurrection">
+                Alien Resurrection (1997)
+              </a></li>
+              <li><a href="https://en.wikipedia.org/wiki/Prometheus_(2012_film)">
+                Prometheus (2012)
+              </a></li>
+              <li><a href="https://en.wikipedia.org/wiki/Alien:_Covenant">
+                Alien: Covenant (2017)
+              </a></li>
+              <li><a href="https://en.wikipedia.org/wiki/Alien:_Romulus">
+                Alien: Romulus (2024)
+              </a></li>
+            </ul>
+          </details>
+        </li>
+        <li>
+          <details>
+            <summary>Predator vs. Alien Franchise</summary>
+            <ul>
+              <li><a href="https://en.wikipedia.org/wiki/Alien_vs._Predator_(film)">
+                Alien vs. Predator (2004)
+              </a></li>
+              <li><a href="https://en.wikipedia.org/wiki/Aliens_vs._Predator:_Requiem">
+                Aliens vs. Predator: Requiem (2007)
+              </a></li>
+            </ul>
+          </details>
+        </li>
       </ul>
     </details>
   </li>
@@ -188,47 +248,42 @@
       <summary>Other</summary>
       <ul>
         <li>
-          <a href=""> 
+          <a href="https://www.imdb.com/title/tt0105323/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_scent%2520of%2520"> 
             Scent of a Woman (1992)  
           </a>
         </li>
         <li>
-          <a href=""> 
-            The Godfather (1972)  
-          </a>
-        </li>
-        <li>
-          <a href=""> 
+          <a href="https://www.imdb.com/title/tt0086250/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_scarface"> 
             Scarface (1983)  
           </a>
         </li>
         <li>
-          <a href=""> 
+          <a href="https://www.imdb.com/title/tt0072890/?ref_=fn_al_tt_1"> 
             Dog Day Afternoon (1975)  
           </a>
         </li>
         <li>
-          <a href=""> 
+          <a href="https://www.imdb.com/title/tt0113277/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_heat%25201995"> 
             Heat (1995)  
           </a>
         </li>
         <li>
-          <a href=""> 
+          <a href="https://www.imdb.com/title/tt0118971/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_devil%27s"> 
             Devil's Advocate (1997)  
           </a>
         </li>
         <li>
-          <a href=""> 
+          <a href="https://www.imdb.com/title/tt0106519/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_carlito%27s"> 
             Carlito's Way (1993)  
           </a>
         </li>
         <li>
-          <a href=""> 
+          <a href="https://www.imdb.com/title/tt0070666/?ref_=nv_sr_srsg_0_tt_3_nm_5_q_serpico"> 
             Serpico (1973)  
           </a>
         </li>
         <li>
-          <a href=""> 
+          <a href="https://www.imdb.com/title/tt0078718/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_and%2520justice%2520"> 
             And Justice for All (1979)  
           </a>
         </li>
@@ -315,6 +370,101 @@
         <li>
           <a href="https://www.imdb.com/title/tt17351924/">
             Saltburn (2023)
+          </a>
+        </li>
+        <li>
+          <a href="https://www.imdb.com/title/tt0448134/">
+            Sunshine (2007)
+          </a>
+        </li>
+        <li>
+          <a href="https://www.imdb.com/title/tt1659337/">
+            The Perks of Being a Wallflower (2012)
+          </a>
+        </li>
+        <li>
+          <a href="https://www.imdb.com/title/tt4925292/">
+            Lady Bird (2017)
+          </a>
+        </li>
+        <li>
+          <a href="https://www.imdb.com/title/tt1489887/">
+            Booksmart (2019)
+          </a>
+        </li>
+        <li>
+          <a href="https://www.imdb.com/title/tt0088847/">
+            The Breakfast Club (1985)
+          </a>
+        </li>
+        <li>
+          <a href="https://www.imdb.com/title/tt0467406/">
+            Juno (2007)
+          </a>
+        </li>
+        <li>
+          <a href="https://www.imdb.com/title/tt0088128/">
+            Sixteen Candles (1984)
+          </a>
+        </li>
+        <li>
+          <a href="https://www.imdb.com/title/tt1878870/">
+            The Edge of Seventeen (2016)
+          </a>
+        </li>
+        <li>
+          <a href="https://www.imdb.com/title/tt0963743/">
+            Angus, Thongs and Perfect Snogging (2008)
+          </a>
+        </li>
+        <li>
+          <a href="https://www.imdb.com/title/tt5164432/">
+            Love, Simon (2018)
+          </a>
+        </li>
+        <li>
+          <a href="https://www.imdb.com/title/tt0337563/">
+            13 Going on 30 (2004)
+          </a>
+        </li>
+        <li>
+          <a href="https://www.imdb.com/title/tt0118655/">
+            Austin Powers: International Man of Mystery (1997)
+          </a>
+        </li>
+        <li>
+          <a href="https://www.imdb.com/title/tt0887883/">
+            Burn After Reading (2008)
+          </a>
+        </li>
+        <li>
+          <a href="https://www.imdb.com/title/tt3532216/">
+            American Made (2017)
+          </a>
+        </li>
+        <li>
+          <a href="https://www.imdb.com/title/tt3079380/">
+            Spy (2015)
+          </a>
+        </li>
+        <li>
+          <a href="https://www.imdb.com/title/tt0274166/">
+            Jonny Enlish (2003)
+          </a>
+        </li>
+        <li>
+          <a href="https://www.imdb.com/title/tt8242084/">
+            My Spy (2020)
+          </a>
+        </li>
+        <li>
+          <a href="https://www.imdb.com/title/tt1596350/">
+            This Means War (2012)
+          </a>
+        </li>
+        <li>
+          <a href="https://www.imdb.com/title/tt15326988/">
+            Ghosted (2023)
           </a>
         </li>
       </ul>

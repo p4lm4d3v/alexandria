@@ -5,7 +5,7 @@
     Explorer Globe Enginer
   </a>
 <h3>
-<ul>
+<ul>  
   <li>
     AI application that creates written and visual explanations for a variety of ideas, improving comprehension through thorough and interactive presentations. It's intended to make complicated subjects easier to understand by offering comprehensible information and visual aids.
   </li>
