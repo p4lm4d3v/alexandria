@@ -5,19 +5,20 @@
     <details>
       <summary>Serbian</summary>
       <ul>
-        <li>
-          <a href="https://sr.wikipedia.org/sr-ec/%D0%9E%D1%81%D1%82%D1%80%D0%B2%D0%BE_(%D1%84%D0%B8%D0%BB%D0%BC_%D0%B8%D0%B7_2006)">
-            Острво (2006)  
-          </a>
-        </li>
-        <li>
-          <a href="https://sr.wikipedia.org/sr-ec/%D0%90%D1%98%D0%B2%D0%B0%D1%80_(%D1%84%D0%B8%D0%BB%D0%BC)">
-            Ајвар (2019)  
-          </a>
-        </li>
+        <li><a href="https://sr.wikipedia.org/sr-ec/%D0%A6%D1%80%D0%BD%D0%B8_%D0%B1%D0%BE%D0%BC%D0%B1%D0%B0%D1%80%D0%B4%D0%B5%D1%80">
+          Црни Бомбардер (1992)
+        </a></li>
+        <li><a href="https://sr.wikipedia.org/sr-ec/%D0%97%D0%BE%D0%BD%D0%B0_%D0%97%D0%B0%D0%BC%D1%84%D0%B8%D1%80%D0%BE%D0%B2%D0%B0_(%D1%84%D0%B8%D0%BB%D0%BC)">
+          Зона Замфирова (2002)
+        </a></li>
         <li>
           <a href="https://sr.wikipedia.org/wiki/Kad_porastem_bi%C4%87u_Kengur">
             Кад порастем бићу Кенгур (2004)  
+          </a>
+        </li>
+        <li>
+          <a href="https://sr.wikipedia.org/sr-ec/%D0%9E%D1%81%D1%82%D1%80%D0%B2%D0%BE_(%D1%84%D0%B8%D0%BB%D0%BC_%D0%B8%D0%B7_2006)">
+            Острво (2006)  
           </a>
         </li>
         <li>
@@ -26,8 +27,23 @@
           </a>
         </li>
         <li>
+          <a href="https://sr.wikipedia.org/sr-ec/%D0%A2%D1%83%D1%80%D0%BD%D0%B5%D1%98%D0%B0_(%D1%84%D0%B8%D0%BB%D0%BC)">
+            Турнеја (2008)  
+          </a>
+        </li>
+        <li>
+          <a href="https://sr.wikipedia.org/sr-ec/%D0%90%D1%98%D0%B2%D0%B0%D1%80_(%D1%84%D0%B8%D0%BB%D0%BC)">
+            Ајвар (2019)  
+          </a>
+        </li>
+        <li>
           <a href="https://sr.wikipedia.org/sr-ec/%D0%9F%D1%80%D0%BE%D0%BB%D0%B5%D1%9B%D0%BD%D0%B0_%D0%BF%D0%B5%D1%81%D0%BC%D0%B0">
-            Пролећна песма  (2021)
+            Пролећна песма (2021)
+          </a>
+        </li>
+        <li>
+          <a href="https://sr.wikipedia.org/sr-ec/%D0%9D%D0%B5%D0%B4%D0%B5%D1%99%D0%B0_(%D1%84%D0%B8%D0%BB%D0%BC)">
+            Недеља (2024)
           </a>
         </li>
       </ul>
@@ -98,27 +114,32 @@
   </li>
   <li>
     <details>
-      <summary>Predator Franchise</summary>
-      <ul>
-        <li><a href="https://en.wikipedia.org/wiki/Predator_(film)">
-          Predator (1987)
-        </a></li>
-        <li><a href="https://en.wikipedia.org/wiki/Predator_2">
-          Predator 2 (1990)
-        </a></li>
-        <li><a href="https://en.wikipedia.org/wiki/Predators_(film)">
-          Predators (2010)
-        </a></li>
-        <li><a href="https://en.wikipedia.org/wiki/The_Predator_(film)">
-          The Predator (2018)
-        </a></li>
-        <li><a href="https://en.wikipedia.org/wiki/Prey_(2022_film)">
-          Prey (2022)
-        </a></li>
-        <li><a href="https://en.wikipedia.org/wiki/Predator_(franchise)#Future">
-          Badlands (2025)
-        </a></li>
-      </ul>
+      <summary>Predator & Alien</summary>
+      <li>
+        <details>
+          <summary>Predator Franchise</summary>
+          <ul>
+            <li><a href="https://en.wikipedia.org/wiki/Predator_(film)">
+              Predator (1987)
+            </a></li>
+            <li><a href="https://en.wikipedia.org/wiki/Predator_2">
+              Predator 2 (1990)
+            </a></li>
+            <li><a href="https://en.wikipedia.org/wiki/Predators_(film)">
+              Predators (2010)
+            </a></li>
+            <li><a href="https://en.wikipedia.org/wiki/The_Predator_(film)">
+              The Predator (2018)
+            </a></li>
+            <li><a href="https://en.wikipedia.org/wiki/Prey_(2022_film)">
+              Prey (2022)
+            </a></li>
+            <li><a href="https://en.wikipedia.org/wiki/Predator_(franchise)#Future">
+              Badlands (2025)
+            </a></li>
+          </ul>
+        </details>
+      </li>
     </details>
   </li>
   <li>
