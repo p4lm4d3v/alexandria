@@ -1,5 +1,8 @@
-# My Personal Library of Movies, Books & TV Shows
+# Alexandria
 
   - Made by ```p4lm4d3v```
-  - I know the name is too long
+
+# Description
+
+  - A library of movies, tv series and books.
   
