@@ -1,8 +1,7 @@
 # Alexandria
 
-  - Made by ```p4lm4d3v```
+- Made by `p4lm4d3v`
 
 # Description
 
-  - A library of movies, tv series and books.
-  
+- A library of a lot of useful things.
