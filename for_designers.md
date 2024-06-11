@@ -57,3 +57,14 @@
     A website that provides free resources for designers and developers. It aggregates a variety of high-quality stock photos, videos, icons, fonts, and more from various sources, making it easy to access these resources from one place. This can be especially useful for those working on creative projects who need readily available, high-quality assets.
   </li>
 </ul>
+
+<h3>
+  <a href="https://neat.firecms.co/">
+    Neat by FireCMS
+  </a>
+</h3>
+<ul>
+  <li>
+    Neat by FireCMS is a product of the FireCMS that allows for easy creation of neat gradients that you can use in your projects. By installing Neat Gradients package using <a href="https://www.npmjs.com/package/@firecms/neat">npm</a> or <a href="https://yarnpkg.com/package?q=firecms%2Fneat&name=%40firecms%2Fneat">yarn</a> you can get the json from the site and use it in your app. Easy as that. 
+  </li>
+</ul>
