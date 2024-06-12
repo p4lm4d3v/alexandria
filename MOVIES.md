@@ -5,12 +5,16 @@
     <details>
       <summary>Serbian</summary>
       <ul>
-        <li><a href="https://sr.wikipedia.org/sr-ec/%D0%A6%D1%80%D0%BD%D0%B8_%D0%B1%D0%BE%D0%BC%D0%B1%D0%B0%D1%80%D0%B4%D0%B5%D1%80">
+        <li>
+          <a href="https://sr.wikipedia.org/sr-ec/%D0%A6%D1%80%D0%BD%D0%B8_%D0%B1%D0%BE%D0%BC%D0%B1%D0%B0%D1%80%D0%B4%D0%B5%D1%80">
           Црни Бомбардер (1992)
-        </a></li>
-        <li><a href="https://sr.wikipedia.org/sr-ec/%D0%97%D0%BE%D0%BD%D0%B0_%D0%97%D0%B0%D0%BC%D1%84%D0%B8%D1%80%D0%BE%D0%B2%D0%B0_(%D1%84%D0%B8%D0%BB%D0%BC)">
+          </a>
+        </li>
+        <li>
+          <a href="https://sr.wikipedia.org/sr-ec/%D0%97%D0%BE%D0%BD%D0%B0_%D0%97%D0%B0%D0%BC%D1%84%D0%B8%D1%80%D0%BE%D0%B2%D0%B0_(%D1%84%D0%B8%D0%BB%D0%BC)">
           Зона Замфирова (2002)
-        </a></li>
+          </a>
+        </li>
         <li>
           <a href="https://sr.wikipedia.org/wiki/Kad_porastem_bi%C4%87u_Kengur">
             Кад порастем бићу Кенгур (2004)  
@@ -480,6 +484,11 @@
         <li>
           <a href="https://www.imdb.com/title/tt22408160/">
             Kinds of Kindness (2024)
+          </a>
+        </li>
+        <li>
+          <a href="https://www.imdb.com/title/tt13957560/">
+            Dumb Money (2023)
           </a>
         </li>
       </ul>

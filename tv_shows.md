@@ -23,6 +23,16 @@
             Insatiable (2018 - 2019)
           </a>
         </li>
+        <li>
+          <a href="https://www.imdb.com/title/tt0904208/">
+            Californication (2007 - 2014)
+          </a>
+        </li>
+        <li>
+          <a href="https://www.imdb.com/title/tt13210838/">
+            The Gentleman (2024 - )
+          </a>
+        </li>
       </ul>
     </details>
   </li>
