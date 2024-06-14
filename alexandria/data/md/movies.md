@@ -3,7 +3,7 @@
 <ul>
   <li>
     <details>
-      <summary>Serbian</summary>
+      <summary>Balkan</summary>
       <ul>
         <li>
           <a href="https://sr.wikipedia.org/sr-ec/%D0%A6%D1%80%D0%BD%D0%B8_%D0%B1%D0%BE%D0%BC%D0%B1%D0%B0%D1%80%D0%B4%D0%B5%D1%80">
@@ -50,9 +50,15 @@
             Недеља (2024)
           </a>
         </li>
+        </li>
+        <li>
+          <a href="https://www.imdb.com/title/tt22039142/">
+            Enough for Now (2024)
+          </a>
+        </li>
       </ul>
     </details>
-  </li>
+</li>
   <li>
     <details>
       <summary>Kingsman Franchise</summary>
@@ -491,7 +497,28 @@
             Dumb Money (2023)
           </a>
         </li>
+        <li>
+          <a href="https://www.imdb.com/title/tt3281548/">
+            Little Women (2019)
+          </a>
+        </li>
+        <li>
+          <a href="https://www.imdb.com/title/tt0086879/">
+            Amadeus (1984)
+          </a>
+        </li>
+        <li>
+          <a href="https://www.imdb.com/title/tt0949731/">
+            The Happening (2008)
+          </a>
+        </li>
+        </li>
+        <li>
+          <a href="https://www.imdb.com/title/tt9198364/">
+            Three Thousand Years of Longing (2022)
+          </a>
+        </li>
       </ul>
     </details>
-    </li>
+  </li>
 </ul>

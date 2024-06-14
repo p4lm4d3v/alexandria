@@ -3,7 +3,7 @@
 <ul>
   <li>
     <details>
-      <summary>Serbian</summary>
+      <summary>Balkan</summary>
       <ul>
         <li><a href="https://sr.wikipedia.org/sr-ec/%D0%A1%D1%80%D0%B5%D1%9B%D0%BD%D0%B8_%D1%99%D1%83%D0%B4%D0%B8">
           Срећни Људи (1993 - 1996)
@@ -31,6 +31,11 @@
         <li>
           <a href="https://www.imdb.com/title/tt13210838/">
             The Gentleman (2024 - )
+          </a>
+        </li>
+        <li>
+          <a href="https://www.imdb.com/title/tt3829868/">
+            Looking for Alaska (2019)
           </a>
         </li>
       </ul>
