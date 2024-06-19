@@ -2,6 +2,21 @@
 
 <ul>
   <li>
+    <a href="https://www.youtube.com/watch?v=utfZHYAGjFE&list=RDAMVMA52HpzAtLHU">
+      Zembo Latifa - Zadnji let
+    </a>
+  </li>
+  <li>
+    <a href="https://www.youtube.com/watch?v=ltglc2k8mfQ&list=RDAMVMA52HpzAtLHU">
+      Vizelj - Struja
+    </a>
+  </li>
+  <li>
+    <a href="https://www.youtube.com/watch?v=Y2NkuFIlLEo">
+      Imagine Dragons - Wrecked
+    </a>
+  </li>
+  <li>
     <a href="https://www.youtube.com/watch?v=d3TkNgdUH8w">
       Sam Cooke - Nothing Can Change This Love
     </a>

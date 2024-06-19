@@ -1,6 +1,31 @@
 # Where To Find
 
 <ul>
+
+  <li>
+    <details>
+      <summary>Palettes</summary>
+      <ul>
+        <li>
+          <a href="https://www.instagram.com/iamvasilenev/">
+            Vasil Enev
+          </a>
+        </li>
+      </ul>
+    </details>
+  </li>  
+  <li>
+    <details>
+      <summary>Gradients</summary>
+      <ul>
+        <li>
+          <a href="https://www.instagram.com/iamvasilenev/">
+            Vasil Enev
+          </a>
+        </li>
+      </ul>
+    </details>
+  </li>  
   <li>
     <details>
       <summary>Music</summary>
@@ -51,16 +76,4 @@
       </ul>
     </details>
   </li>
-  <li>
-    <details>
-      <summary>Color Palette</summary>
-      <ul>
-        <li>
-          <a href="https://www.instagram.com/iamvasilenev/">
-            Vasil Enev
-          </a>
-        </li>
-      </ul>
-    </details>
-  </li>  
 </ul>
