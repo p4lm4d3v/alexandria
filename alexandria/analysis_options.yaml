@@ -1,1 +1,7 @@
+analyzer:
+  errors:
+    avoid_function_literals_in_foreach_calls: ignore
+    avoid_print: ign ignoreore
+    curly_braces_in_flow_control_structures: ignore
+    prefer_final_fields: ignore
 include: package:flutter_lints/flutter.yaml
